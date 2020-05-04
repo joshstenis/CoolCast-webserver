@@ -2,9 +2,9 @@
 Node.js web server for Harry Cooper's CoolCast, likely will become a React.js app in the future.
 
 ## Short Term Todo List
-- [ ] Make node package
+- [x] Make node package
 - [ ] Setup node express server
-- [ ] Meet with Harry about what should be on the website
+- [x] Meet with Harry about what should be on the website
 
 ## Long Term Todo List
 - [ ] Make bare bones webserver
