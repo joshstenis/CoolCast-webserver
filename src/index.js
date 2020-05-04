@@ -7,15 +7,15 @@ server.get('/', (req, res) => {
 
 server.get('/about', (req, res) => {
 	res.send(`About us....
-Bios about the \"Cooper Scoopers\"...`);
+	Bios about the \"Cooper Scoopers\"...`);
 });
 
 server.get('/merch', (req, res) => {
 	res.send(`CoolCast merch!!!
-Cooper scooper themed headphones
-pajamas
-stuffed animals (webkins esque, also of cooper scoopers)
-bobble heads (definitely)`);
+	Cooper scooper themed headphones
+	pajamas
+	stuffed animals (webkins esque, also of cooper scoopers)
+	bobble heads (definitely)`);
 });
 
 server.get('/episodes', (req, res) => {
@@ -24,11 +24,15 @@ server.get('/episodes', (req, res) => {
 
 server.get('/fungames', (req, res) => {
 	res.send(`Embed a few mini games
-perhaps a mine sweeper clone`);
+	perhaps a mine sweeper clone`);
+});
+
+server.get('/siteseeing', (req, res) => {
+	res.send(`Every website we've site-seen (URL list)`);
 });
 
 //////////////// LISTEN //////////////////
 
 server.listen(3000, () => {
-	console.log('Cooper's CoolCast listening in for requests...');
+	console.log('Cooper\'s CoolCast listening in for requests...');
 });

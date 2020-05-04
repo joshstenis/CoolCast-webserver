@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joshstenis/CoolCast-webserver/issues"
   },
-  "homepage": "https://github.com/joshstenis/CoolCast-webserver#readme"
+  "homepage": "https://github.com/joshstenis/CoolCast-webserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
