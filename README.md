@@ -13,5 +13,5 @@ NOTE: Cannot do merch yet b/c no funds.
 - [x] Make bare bones webserver
 - [ ] Develop website as React project
 - [ ] Test server functionality & security
-- [ ] Purchase domain for CoolCast web server (coolcast.biz)
+- [ ] Purchase domain for CoolCast web server (coolcast.biz OR podcast.com)
 - [ ] PUBLISH!!!!! (yay)
